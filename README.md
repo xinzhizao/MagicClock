@@ -115,6 +115,7 @@ Project Link: [https://github.com/j4nf4b3l/MagicClock](https://github.com/j4nf4b
 * [Google Firebase](https://github.com/firebase/firebase-ios-sdk)
 * [SwiftDate](https://github.com/malcommac/SwiftDate)
 * [CryptoRSA](https://github.com/Kitura/BlueRSA)
+* [checkm8_bootkit](https://github.com/NyanSatan/checkm8_bootkit) (Thanks john :smile:)
 
 
 
