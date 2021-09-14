@@ -75,11 +75,6 @@ Features:
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
 ### Prerequisites
 
 In order to get the exploits working, you have to install libusb before using the tool...
