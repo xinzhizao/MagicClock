@@ -102,6 +102,7 @@ See the [open issues](https://github.com/j4nf4b3l/MagicClock/issues) for a list 
 ## Contact
 
 Jan Fabel - [@j4nf4](https://twitter.com/j4nf4) - contact@j4nf4b3l.de
+
 MagicClock Support - [@magicClockTool](https://twitter.com/magicClockTool) - magiccfg@gmail.com
 
 Project Link: [https://github.com/j4nf4b3l/MagicClock](https://github.com/j4nf4b3l/MagicClock)
