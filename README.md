@@ -29,8 +29,6 @@
   <p align="center">
     THE  WATCH SYSCFG UTILITY!
     <br />
-    <a href="https://magicclock.magiccfg.com">Homepage</a>
-    ·
     <a href="https://github.com/j4nf4b3l/MagicClock/issues">Report Bug</a>
   </p>
 </p>
@@ -61,16 +59,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 MagicClock is a specified variant of MagicCFG, adapted for use with Apple Watches.
-We believe that MagicClock will make things easier for many repair technicians around the world.
-With MagicClock, we are supporters of the #rightToRepair movement and want to contribute to reducing e-waste worldwide. 
-There is a lot of energy and valuable raw materials in every device. Instead of recycling them, which also requires a lot of energy, you can simply reuse them.
-
-Features:
-* Editing the device's sysCFG with ease, no need to solder and buy expensive programmers from China :)
-* Identify issues of your device in combination with [MagicCFG Diagnostics](https://magicclock.magiccfg.com)
-* Do other funny stuff :smile:
-
-[Documentation](https://magicclock.magiccfg.com)
+It is intended to facilitate the work of repair technicians from around the world who do not have access to an expensive NAND programmer from the Far East. With MagicClock, we are supporters of the #rightToRepair movement and want to contribute to reducing e-waste worldwide.
 
 
 <!-- GETTING STARTED -->
@@ -95,10 +84,6 @@ See the [open issues](https://github.com/j4nf4b3l/MagicClock/issues) for a list 
 
 <!-- CONTACT -->
 ## Contact
-
-Jan Fabel - [@j4nf4](https://twitter.com/j4nf4) - contact@j4nf4b3l.de
-
-MagicClock Support - [@magicClockTool](https://twitter.com/magicClockTool) - magiccfg@gmail.com
 
 Project Link: [https://github.com/j4nf4b3l/MagicClock](https://github.com/j4nf4b3l/MagicClock)
 
