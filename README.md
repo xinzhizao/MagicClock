@@ -46,7 +46,6 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
@@ -79,13 +78,6 @@ After installation finished, run
 ## Roadmap
 
 See the [open issues](https://github.com/j4nf4b3l/MagicClock/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/j4nf4b3l/MagicClock](https://github.com/j4nf4b3l/MagicClock)
 
 
 
